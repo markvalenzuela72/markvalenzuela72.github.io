@@ -366,6 +366,7 @@ a.button .fa {
     width: 250px;
     height: 3em;
     padding-top: 0.2em;
+    text-decoration: none !important;
 }
 
 .callme.button .fa {
@@ -376,7 +377,6 @@ a.button .fa {
     border: solid 2px #722872;
     color: #fff;
     background: #722872;
-    text-decoration: none
 }
 
 .scroll-top {
